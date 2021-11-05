@@ -27,6 +27,7 @@ Partial Class Duplikasi
         Me.FileToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Show_Up = New System.Windows.Forms.Label()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -71,11 +72,22 @@ Partial Class Duplikasi
         Me.Button1.Text = "Click Me!"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'Show_Up
+        '
+        Me.Show_Up.AutoSize = True
+        Me.Show_Up.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Show_Up.Location = New System.Drawing.Point(93, 113)
+        Me.Show_Up.Name = "Show_Up"
+        Me.Show_Up.Size = New System.Drawing.Size(0, 17)
+        Me.Show_Up.TabIndex = 3
+        Me.Show_Up.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'Duplikasi
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(259, 128)
+        Me.ClientSize = New System.Drawing.Size(259, 146)
+        Me.Controls.Add(Me.Show_Up)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.MenuStrip1)
@@ -94,4 +106,5 @@ Partial Class Duplikasi
     Friend WithEvents FileToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ExitToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Button1 As Button
+    Friend WithEvents Show_Up As Label
 End Class

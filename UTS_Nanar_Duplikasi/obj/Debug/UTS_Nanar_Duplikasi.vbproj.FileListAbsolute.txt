@@ -3,7 +3,6 @@ E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok N
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.pdb
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.xml
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.AssemblyReference.cache
-E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form1.resources
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Resources.resources
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.GenerateResource.cache
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.CoreCompileInputs.cache
@@ -22,3 +21,4 @@ C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\o
 C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.exe
 C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.xml
 C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Duplikasi.resources
