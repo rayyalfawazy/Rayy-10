@@ -1,0 +1,12 @@
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.exe.config
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.exe
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.pdb
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.xml
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.AssemblyReference.cache
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form1.resources
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Resources.resources
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.GenerateResource.cache
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.CoreCompileInputs.cache
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.exe
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.xml
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb
