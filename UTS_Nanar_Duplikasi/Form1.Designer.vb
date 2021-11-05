@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class Duplikasi
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -71,7 +71,7 @@ Partial Class Form1
         Me.Button1.Text = "Click Me!"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Form1
+        'Duplikasi
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -80,8 +80,8 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
-        Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Name = "Duplikasi"
+        Me.Text = "The Evil Nun"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)

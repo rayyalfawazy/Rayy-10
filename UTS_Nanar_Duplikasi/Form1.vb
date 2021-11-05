@@ -1,5 +1,5 @@
-﻿Public Class Form1
+﻿Public Class Duplikasi
     Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
-
+        End
     End Sub
 End Class
