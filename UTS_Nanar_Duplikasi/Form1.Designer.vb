@@ -27,7 +27,7 @@ Partial Class Duplikasi
         Me.FileToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
+        Me.quit_btn = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -65,28 +65,30 @@ Partial Class Duplikasi
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(234, 91)
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(220, 76)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(86, 23)
+        Me.Button1.Size = New System.Drawing.Size(121, 49)
         Me.Button1.TabIndex = 2
         Me.Button1.Text = "Start Game"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'Button2
+        'quit_btn
         '
-        Me.Button2.Location = New System.Drawing.Point(234, 146)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(86, 23)
-        Me.Button2.TabIndex = 3
-        Me.Button2.Text = "Quit Game"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.quit_btn.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.quit_btn.Location = New System.Drawing.Point(220, 146)
+        Me.quit_btn.Name = "quit_btn"
+        Me.quit_btn.Size = New System.Drawing.Size(121, 48)
+        Me.quit_btn.TabIndex = 3
+        Me.quit_btn.Text = "Quit Game"
+        Me.quit_btn.UseVisualStyleBackColor = True
         '
         'Duplikasi
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(573, 243)
-        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.quit_btn)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.MenuStrip1)
@@ -107,5 +109,5 @@ Partial Class Duplikasi
     Friend WithEvents FileToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ExitToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
+    Friend WithEvents quit_btn As Button
 End Class
