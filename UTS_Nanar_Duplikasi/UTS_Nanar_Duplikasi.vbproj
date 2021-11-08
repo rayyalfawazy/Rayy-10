@@ -129,5 +129,14 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GOYI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ROGI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YORI.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
