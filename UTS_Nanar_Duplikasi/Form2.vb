@@ -1,6 +1,10 @@
 ﻿Public Class Form2
     Dim m, a, b, c As Integer
 
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        MessageBox.Show("Buka kunci dengan" & vbCrLf & "melakukan percobaan spin" & vbCrLf & "hingga semua warna sama")
+    End Sub
+
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         MessageBox.Show("Baiklah Anda Akan Terkurung Selamanya...")
         End

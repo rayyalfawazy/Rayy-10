@@ -33,6 +33,7 @@ Partial Class Form2
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -129,11 +130,21 @@ Partial Class Form2
         Me.Label4.TabIndex = 8
         Me.Label4.Text = "Buka Kunci"
         '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(13, 19)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(23, 23)
+        Me.Button3.TabIndex = 9
+        Me.Button3.Text = "?"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(440, 254)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -163,4 +174,5 @@ Partial Class Form2
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
+    Friend WithEvents Button3 As Button
 End Class
