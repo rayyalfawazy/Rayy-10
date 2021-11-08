@@ -22,3 +22,4 @@ C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\o
 C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Duplikasi.resources
 C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Duplikasi.resources
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form2.resources
