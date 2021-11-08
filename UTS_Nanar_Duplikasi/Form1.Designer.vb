@@ -71,7 +71,7 @@ Partial Class Duplikasi
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(121, 49)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "Start Game"
+        Me.Button1.Text = "Mulai Game"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'quit_btn
@@ -81,7 +81,7 @@ Partial Class Duplikasi
         Me.quit_btn.Name = "quit_btn"
         Me.quit_btn.Size = New System.Drawing.Size(121, 48)
         Me.quit_btn.TabIndex = 3
-        Me.quit_btn.Text = "Quit Game"
+        Me.quit_btn.Text = "Keluar Game"
         Me.quit_btn.UseVisualStyleBackColor = True
         '
         'Button2
@@ -91,7 +91,7 @@ Partial Class Duplikasi
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(121, 48)
         Me.Button2.TabIndex = 3
-        Me.Button2.Text = "Setting"
+        Me.Button2.Text = "Bantuan"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Duplikasi
