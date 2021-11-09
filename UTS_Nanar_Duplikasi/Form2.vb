@@ -2,21 +2,24 @@
     Dim a, b, c As Integer
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        MessageBox.Show("KAMU TERKURUNG DI DALAM PENJARA NUN...." & vbCrLf & "Buka kunci dengan mencari sandi warna" & vbCrLf & "yang terdapat pada tombol [bantuan] halaman utama")
+        MessageBox.Show("KAMU TERKURUNG DI DALAM PENJARA NUN...." & vbCrLf & "Buka kunci dengan mencari sandi warna" & vbCrLf & "yang terdapat pada tombol [bantuan] halaman utama", "Bantuan")
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        MessageBox.Show("Baiklah Anda Akan Terkurung Selamanya...")
+        MessageBox.Show("Baiklah Anda Akan Terkurung Selamanya...", "Keluar Game")
+        PictureBox1.Image = Nothing
+        PictureBox2.Image = Nothing
+        PictureBox3.Image = Nothing
         Me.Hide()
         Duplikasi.Show()
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         If a = 1 And b = 2 And c = 1 Then
-            MessageBox.Show("Kamu Berhasil Membuka Kunci!")
+            MessageBox.Show("Kamu Berhasil Membuka Kunci!", "Berhasil!")
             Me.Hide()
             Duplikasi.Show()
         Else
-            MessageBox.Show("Kamu Gagal, Coba Lagi! Tekan ? untuk melihat bantuan")
+            MessageBox.Show("Kamu Gagal, Coba Lagi! Tekan ? untuk melihat bantuan", "Gagal!")
         End If
     End Sub
 
