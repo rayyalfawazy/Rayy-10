@@ -1,63 +1,105 @@
 ﻿Public Class Form2
-    Dim m, a, b, c As Integer
+    Dim a, b, c As Integer
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        MessageBox.Show("Buka kunci dengan" & vbCrLf & "melakukan percobaan spin" & vbCrLf & "hingga semua warna sama")
+        MessageBox.Show("KAMU TERKURUNG DI DALAM PENJARA NUN...." & vbCrLf & "Buka kunci dengan mencari sandi warna" & vbCrLf & "yang terdapat pada tombol [bantuan] halaman utama")
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         MessageBox.Show("Baiklah Anda Akan Terkurung Selamanya...")
-        End
+        Me.Hide()
+        Duplikasi.Show()
     End Sub
-
-    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
-        m = m + 10
-        If m < 1000 Then
-            a = Int(1 + Rnd() * 3)
-            b = Int(1 + Rnd() * 3)
-            c = Int(1 + Rnd() * 3)
-            Button1.Text = "..."
-            Select Case a
-                Case 1
-                    PictureBox1.Image = My.Resources.GOYI
-                Case 2
-                    PictureBox1.Image = My.Resources.ROGI
-                Case 3
-                    PictureBox1.Image = My.Resources.YORI
-            End Select
-
-            Select Case b
-                Case 1
-                    PictureBox2.Image = My.Resources.GOYI
-                Case 2
-                    PictureBox2.Image = My.Resources.ROGI
-                Case 3
-                    PictureBox2.Image = My.Resources.YORI
-            End Select
-
-            Select Case c
-                Case 1
-                    PictureBox3.Image = My.Resources.GOYI
-                Case 2
-                    PictureBox3.Image = My.Resources.ROGI
-                Case 3
-                    PictureBox3.Image = My.Resources.YORI
-            End Select
-
-        Else
-            Timer1.Enabled = False
-            Button1.Text = "Spin..."
-            m = 0
-            If a = b And b = c Then
-                MessageBox.Show("Kamu Berhasil Bebas Dari Kurungan Nun")
-            Else
-                MessageBox.Show("Sayang sekali, kamu gagal! Coba lagi kembali")
-            End If
-        End If
-
-    End Sub
-
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Timer1.Enabled = True
+        If a = 1 And b = 2 And c = 1 Then
+            MessageBox.Show("Kamu Berhasil Membuka Kunci!")
+            Me.Hide()
+            Duplikasi.Show()
+        Else
+            MessageBox.Show("Kamu Gagal, Coba Lagi! Tekan ? untuk melihat bantuan")
+        End If
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles prev_b.Click
+        b = b - 1
+        If b < 1 Then
+            b = 3
+        End If
+        If b = 1 Then
+            PictureBox2.Image = My.Resources.GOYI
+        ElseIf b = 2 Then
+            PictureBox2.Image = My.Resources.ROGI
+        ElseIf b = 3 Then
+            PictureBox2.Image = My.Resources.YORI
+        End If
+    End Sub
+
+    Private Sub next_b_Click(sender As Object, e As EventArgs) Handles next_b.Click
+        b = b + 1
+        If b > 3 Then
+            b = 1
+        End If
+        If b = 1 Then
+            PictureBox2.Image = My.Resources.GOYI
+        ElseIf b = 2 Then
+            PictureBox2.Image = My.Resources.ROGI
+        ElseIf b = 3 Then
+            PictureBox2.Image = My.Resources.YORI
+        End If
+    End Sub
+
+    Private Sub prev_c_Click(sender As Object, e As EventArgs) Handles prev_c.Click
+        c = c - 1
+        If c < c Then
+            c = 3
+        End If
+        If c = 1 Then
+            PictureBox3.Image = My.Resources.GOYI
+        ElseIf c = 2 Then
+            PictureBox3.Image = My.Resources.ROGI
+        ElseIf c = 3 Then
+            PictureBox3.Image = My.Resources.YORI
+        End If
+    End Sub
+
+    Private Sub next_c_Click(sender As Object, e As EventArgs) Handles next_c.Click
+        c = c + 1
+        If c > 3 Then
+            c = 1
+        End If
+        If c = 1 Then
+            PictureBox3.Image = My.Resources.GOYI
+        ElseIf c = 2 Then
+            PictureBox3.Image = My.Resources.ROGI
+        ElseIf c = 3 Then
+            PictureBox3.Image = My.Resources.YORI
+        End If
+    End Sub
+
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles next_a.Click
+        a = a + 1
+        If a > 3 Then
+            a = 1
+        End If
+        If a = 1 Then
+            PictureBox1.Image = My.Resources.GOYI
+        ElseIf a = 2 Then
+            PictureBox1.Image = My.Resources.ROGI
+        ElseIf a = 3 Then
+            PictureBox1.Image = My.Resources.YORI
+        End If
+    End Sub
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles prev_a.Click
+        a = a - 1
+        If a < 1 Then
+            a = 3
+        End If
+        If a = 1 Then
+            PictureBox1.Image = My.Resources.GOYI
+        ElseIf a = 2 Then
+            PictureBox1.Image = My.Resources.ROGI
+        ElseIf a = 3 Then
+            PictureBox1.Image = My.Resources.YORI
+        End If
     End Sub
 End Class

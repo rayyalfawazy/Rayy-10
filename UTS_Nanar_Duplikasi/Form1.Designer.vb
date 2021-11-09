@@ -29,6 +29,7 @@ Partial Class Duplikasi
         Me.Button1 = New System.Windows.Forms.Button()
         Me.quit_btn = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -36,7 +37,7 @@ Partial Class Duplikasi
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 17.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(204, 33)
+        Me.Label1.Location = New System.Drawing.Point(192, 33)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(151, 29)
         Me.Label1.TabIndex = 0
@@ -94,11 +95,23 @@ Partial Class Duplikasi
         Me.Button2.Text = "Bantuan"
         Me.Button2.UseVisualStyleBackColor = True
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Pristina", 25.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.ForeColor = System.Drawing.Color.Red
+        Me.Label2.Location = New System.Drawing.Point(334, 27)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(35, 45)
+        Me.Label2.TabIndex = 4
+        Me.Label2.Text = "2"
+        '
         'Duplikasi
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(573, 297)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.quit_btn)
         Me.Controls.Add(Me.Button1)
@@ -123,4 +136,5 @@ Partial Class Duplikasi
     Friend WithEvents Button1 As Button
     Friend WithEvents quit_btn As Button
     Friend WithEvents Button2 As Button
+    Friend WithEvents Label2 As Label
 End Class
