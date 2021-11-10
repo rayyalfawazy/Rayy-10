@@ -40,6 +40,7 @@ Partial Class Form2
         Me.next_a = New System.Windows.Forms.Button()
         Me.next_b = New System.Windows.Forms.Button()
         Me.next_c = New System.Windows.Forms.Button()
+        Me.Label5 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -199,11 +200,21 @@ Partial Class Form2
         Me.next_c.Text = ">"
         Me.next_c.UseVisualStyleBackColor = True
         '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(387, 28)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(60, 13)
+        Me.Label5.TabIndex = 16
+        Me.Label5.Text = "Hallo Naba"
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(564, 254)
+        Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.next_c)
         Me.Controls.Add(Me.next_b)
         Me.Controls.Add(Me.next_a)
@@ -247,4 +258,5 @@ Partial Class Form2
     Friend WithEvents next_a As Button
     Friend WithEvents next_b As Button
     Friend WithEvents next_c As Button
+    Friend WithEvents Label5 As Label
 End Class
