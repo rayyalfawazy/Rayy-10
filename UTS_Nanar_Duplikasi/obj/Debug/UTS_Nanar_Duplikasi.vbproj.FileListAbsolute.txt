@@ -23,3 +23,16 @@ C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\o
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Duplikasi.resources
 C:\Users\Belajar Kreatif\Desktop\Project PV Gitted\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Duplikasi.resources
 E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form2.resources
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.exe.config
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.exe
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.pdb
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\bin\Debug\UTS_Nanar_Duplikasi.xml
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.AssemblyReference.cache
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Duplikasi.resources
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form2.resources
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Resources.resources
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.GenerateResource.cache
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.vbproj.CoreCompileInputs.cache
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.exe
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.xml
+C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb

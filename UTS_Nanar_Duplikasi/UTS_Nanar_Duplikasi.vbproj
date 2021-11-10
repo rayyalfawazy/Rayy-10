@@ -138,5 +138,8 @@
   <ItemGroup>
     <None Include="Resources\YORI.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Evilnun.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
