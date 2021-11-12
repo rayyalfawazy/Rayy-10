@@ -17,7 +17,7 @@
         If a = 1 And b = 2 And c = 1 Then
             MessageBox.Show("Kamu Berhasil Membuka Kunci!", "Berhasil!")
             Me.Hide()
-            Duplikasi.Show()
+            Form3.Show()
         Else
             MessageBox.Show("Kamu Gagal, Coba Lagi! Tekan ? untuk melihat bantuan", "Gagal!")
         End If

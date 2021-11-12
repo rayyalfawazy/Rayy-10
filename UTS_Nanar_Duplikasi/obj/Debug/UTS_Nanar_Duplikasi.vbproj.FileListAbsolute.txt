@@ -36,3 +36,4 @@ C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\De
 C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.exe
 C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.xml
 C:\Users\bilahmashita\Documents\Projek UTS VB\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form3.resources
