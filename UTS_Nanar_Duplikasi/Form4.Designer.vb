@@ -24,8 +24,8 @@ Partial Class Form4
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form4))
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.Label1 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -39,6 +39,15 @@ Partial Class Form4
         Me.Panel1.Size = New System.Drawing.Size(637, 219)
         Me.Panel1.TabIndex = 0
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(531, 177)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(76, 30)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "Next"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Label1
         '
         Me.Label1.AutoSize = True
@@ -49,15 +58,6 @@ Partial Class Form4
         Me.Label1.Size = New System.Drawing.Size(608, 160)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = resources.GetString("Label1.Text")
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(531, 177)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(76, 30)
-        Me.Button1.TabIndex = 1
-        Me.Button1.Text = "Next"
-        Me.Button1.UseVisualStyleBackColor = True
         '
         'Form4
         '

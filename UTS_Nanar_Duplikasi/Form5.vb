@@ -144,6 +144,6 @@
     End Sub
 
     Private Sub Form5_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Shuffle()
+        ' Shuffle()
     End Sub
 End Class

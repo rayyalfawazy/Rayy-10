@@ -26,6 +26,8 @@
             MsgBox("Di dalam kotak, ditemukan surat yang bertuliskan : " & Environment.NewLine &
                    "[ Biarawati itu memperhatikanku setiap waktu, seakan ingin menerkamku. " & Environment.NewLine &
                    "Aku merasa sangat resah dan ketakutan ] ")
+            Duplikasi.Show()
+            Form5.Hide()
         End If
     End Sub
 

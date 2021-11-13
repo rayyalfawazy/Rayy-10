@@ -8,7 +8,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Me.Hide()
-        Form2.Show()
+        Form4.Show()
     End Sub
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         MessageBox.Show("Pada permainan ini kamu diminta untuk menyelesaikan" & vbCrLf & "beberapa teka teki untuk keluar dari penjara Nun")

@@ -39,7 +39,6 @@ Partial Class Form5
         Me.Button15 = New System.Windows.Forms.Button()
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Button13 = New System.Windows.Forms.Button()
-        Me.Button17 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -242,23 +241,12 @@ Partial Class Form5
         Me.Button13.Text = "13"
         Me.Button13.UseVisualStyleBackColor = False
         '
-        'Button17
-        '
-        Me.Button17.BackColor = System.Drawing.Color.Black
-        Me.Button17.Location = New System.Drawing.Point(379, 547)
-        Me.Button17.Name = "Button17"
-        Me.Button17.Size = New System.Drawing.Size(75, 23)
-        Me.Button17.TabIndex = 17
-        Me.Button17.Text = "NEXT"
-        Me.Button17.UseVisualStyleBackColor = False
-        '
         'Form5
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Maroon
-        Me.ClientSize = New System.Drawing.Size(487, 580)
-        Me.Controls.Add(Me.Button17)
+        Me.ClientSize = New System.Drawing.Size(487, 561)
         Me.Controls.Add(Me.Button16)
         Me.Controls.Add(Me.Button15)
         Me.Controls.Add(Me.Button14)
@@ -303,5 +291,4 @@ Partial Class Form5
     Friend WithEvents Button15 As Button
     Friend WithEvents Button14 As Button
     Friend WithEvents Button13 As Button
-    Friend WithEvents Button17 As Button
 End Class

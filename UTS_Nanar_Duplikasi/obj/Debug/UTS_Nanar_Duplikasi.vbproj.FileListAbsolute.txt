@@ -53,3 +53,4 @@ C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.exe
 C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.xml
 C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb
 C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form5.resources
+C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form6.resources
