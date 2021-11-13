@@ -38,10 +38,10 @@ Partial Class Duplikasi
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Another Danger - Demo", 17.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(201, 30)
+        Me.Label1.Font = New System.Drawing.Font("Arial", 17.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(193, 33)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(131, 39)
+        Me.Label1.Size = New System.Drawing.Size(139, 26)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "The Evil Nun"
         '
