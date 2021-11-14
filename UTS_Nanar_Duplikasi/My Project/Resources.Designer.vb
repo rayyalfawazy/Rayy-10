@@ -61,6 +61,16 @@ Namespace My.Resources
         End Property
         
         '''<summary>
+        '''  Looks up a localized resource of type System.Byte[].
+        '''</summary>
+        Friend ReadOnly Property Another_Danger___Demo() As Byte()
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Another_Danger___Demo", resourceCulture)
+                Return CType(obj,Byte())
+            End Get
+        End Property
+        
+        '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
         Friend ReadOnly Property Evilnun() As System.Drawing.Bitmap
@@ -81,12 +91,12 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         '''</summary>
-        Friend ReadOnly Property Icon() As System.Drawing.Bitmap
+        Friend ReadOnly Property logo_vb_rev_dPf_icon() As System.Drawing.Icon
             Get
-                Dim obj As Object = ResourceManager.GetObject("Icon", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
+                Dim obj As Object = ResourceManager.GetObject("logo_vb_rev_dPf_icon", resourceCulture)
+                Return CType(obj,System.Drawing.Icon)
             End Get
         End Property
         

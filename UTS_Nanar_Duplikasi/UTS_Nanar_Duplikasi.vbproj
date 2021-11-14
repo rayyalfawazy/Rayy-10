@@ -167,6 +167,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Another Danger - Demo.otf" />
     <None Include="Resources\GOYI.png" />
   </ItemGroup>
   <ItemGroup>
@@ -177,6 +178,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Evilnun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_vb_rev_dPf_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
