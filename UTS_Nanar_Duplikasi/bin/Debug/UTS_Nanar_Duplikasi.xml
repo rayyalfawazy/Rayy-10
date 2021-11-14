@@ -22,6 +22,11 @@ UTS_Nanar_Duplikasi
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:UTS_Nanar_Duplikasi.My.Resources.Resources.Another_Danger___Demo">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
 <member name="P:UTS_Nanar_Duplikasi.My.Resources.Resources.Evilnun">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -32,9 +37,9 @@ UTS_Nanar_Duplikasi
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:UTS_Nanar_Duplikasi.My.Resources.Resources.Icon">
+<member name="P:UTS_Nanar_Duplikasi.My.Resources.Resources.logo_vb_rev_dPf_icon">
 <summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
 </summary>
 </member>
 <member name="P:UTS_Nanar_Duplikasi.My.Resources.Resources.ROGI">

@@ -1,5 +1,5 @@
 ﻿Public Class Duplikasi
-    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
+    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs)
         End
     End Sub
     Private Sub Duplikasi_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -11,7 +11,7 @@
         Form4.Show()
     End Sub
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        MessageBox.Show("Pada permainan ini kamu diminta untuk menyelesaikan" & vbCrLf & "beberapa teka teki untuk keluar dari penjara Nun")
+        MessageBox.Show("Pada permainan ini kamu diminta untuk menyelesaikan" & vbCrLf & "beberapa teka teki untuk keluar dari sekolah Mountland School")
         MessageBox.Show("Untuk melihat jawaban dari teka-teki pertama" & vbCrLf & "klik pada angka 2 judul game")
     End Sub
 

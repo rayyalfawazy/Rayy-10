@@ -54,3 +54,6 @@ C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.xml
 C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.pdb
 C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form5.resources
 C:\repo\Rayy-10\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form6.resources
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form4.resources
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form5.resources
+E:\Punya Rayyan\ITI Essential\Semester 3\Pemrograman Visual\Tugas\UTS Kelompok Nanar\UTS_Nanar_Duplikasi\UTS_Nanar_Duplikasi\obj\Debug\UTS_Nanar_Duplikasi.Form6.resources
