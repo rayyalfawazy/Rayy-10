@@ -41,7 +41,6 @@ Partial Class Duplikasi
         Me.Label1.Size = New System.Drawing.Size(139, 26)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "The Evil Nun"
-        Me.Label1.UseWaitCursor = True
         '
         'Button1
         '
@@ -53,7 +52,6 @@ Partial Class Duplikasi
         Me.Button1.TabIndex = 2
         Me.Button1.Text = "Mulai Game"
         Me.Button1.UseVisualStyleBackColor = False
-        Me.Button1.UseWaitCursor = True
         '
         'quit_btn
         '
@@ -65,7 +63,6 @@ Partial Class Duplikasi
         Me.quit_btn.TabIndex = 3
         Me.quit_btn.Text = "Keluar Game"
         Me.quit_btn.UseVisualStyleBackColor = False
-        Me.quit_btn.UseWaitCursor = True
         '
         'Button2
         '
@@ -77,7 +74,6 @@ Partial Class Duplikasi
         Me.Button2.TabIndex = 3
         Me.Button2.Text = "Bantuan"
         Me.Button2.UseVisualStyleBackColor = False
-        Me.Button2.UseWaitCursor = True
         '
         'Label2
         '
@@ -89,7 +85,6 @@ Partial Class Duplikasi
         Me.Label2.Size = New System.Drawing.Size(36, 44)
         Me.Label2.TabIndex = 4
         Me.Label2.Text = "2"
-        Me.Label2.UseWaitCursor = True
         '
         'PictureBox1
         '
@@ -100,7 +95,6 @@ Partial Class Duplikasi
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 5
         Me.PictureBox1.TabStop = False
-        Me.PictureBox1.UseWaitCursor = True
         '
         'Duplikasi
         '
@@ -119,7 +113,6 @@ Partial Class Duplikasi
         Me.MaximizeBox = False
         Me.Name = "Duplikasi"
         Me.Text = "The Evil Nun 2"
-        Me.UseWaitCursor = True
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()

@@ -5,8 +5,8 @@
 
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        MessageBox.Show("Selamat Bermain", "Mulai")
         Me.Hide()
         Form5.Show()
-        MsgBox("Selamat Bermain")
     End Sub
 End Class

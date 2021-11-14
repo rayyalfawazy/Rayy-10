@@ -23,9 +23,9 @@
             Form5.Button14.Text = "14" And
             Form5.Button15.Text = "15" And
             Form5.Button16.Text = "" Then
-            MsgBox("Di dalam kotak, ditemukan surat yang bertuliskan : " & Environment.NewLine &
+            MessageBox.Show("Di dalam kotak, ditemukan surat yang bertuliskan : " & Environment.NewLine &
                    "[ Biarawati itu memperhatikanku setiap waktu, seakan ingin menerkamku. " & Environment.NewLine &
-                   "Aku merasa sangat resah dan ketakutan ] ")
+                   "Aku merasa sangat resah dan ketakutan ] ", "Teka - Teki")
             Duplikasi.Show()
             Form5.Hide()
         End If
